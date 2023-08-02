@@ -1,3 +1,8 @@
+// Problem statement:
+/*
+    Maximize/ minimize some condition on every subarray/substring of given size k
+*/
+
 int i=0,j=0; // start and end of the sliding window
 while(j<n){
     // add j to window
